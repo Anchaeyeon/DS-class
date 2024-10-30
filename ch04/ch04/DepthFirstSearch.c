@@ -17,7 +17,7 @@ int pop(void) {
 
 void DepthFirstSearch(char V[], bool G[][SIZE]) {
 	int i, j;
-	bool searchOK[SIZE] = { false };
+	bool searchOK[SIZE] = { false }; 
 	char startVertex;
 
 	printf("출발 정점 : ");
