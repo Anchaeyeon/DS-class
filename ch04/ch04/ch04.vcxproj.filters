@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BreadthFirstSearch.c">
+    <ClCompile Include="DijkStraShortestPath1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
